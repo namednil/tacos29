@@ -21,7 +21,7 @@ Unfortunately, you have to pay a fee of TODO € to help cover the costs of the 
 - lunch and dinner on saturday
 - beverages and snacks during the conference
 
-You can avoid paying the fee by [presenting](/call/) something :) 
+You can avoid paying the fee by [presenting](/tacos29/call/) something :) 
 
 As soon as the registration is open, we will link it here.
 </div>
