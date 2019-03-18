@@ -1,0 +1,24 @@
+- 1:
+  time: 9:00-10:00
+  room: "Foyer of C7.2"
+  title: "Breakfast"
+  speaker: ""
+  text: ""
+- 2:
+  time: 10:00-10:45
+  room: "Conference room"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 3:
+  time: 10:45-11:30
+  room: "Conference room"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 4:
+  time: 10:45-11:30
+  room: "Conference room"
+  title: "Closing Remarks & Next Tacos"
+  speaker: "TaCoS-Orga-Team"
+  text: ""

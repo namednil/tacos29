@@ -1,0 +1,75 @@
+---
+title: Program
+layout: project
+---
+
+<article>
+  <div class="inner">
+    <div class="project-intro">
+      <p>This is a rough plan for the program and is subject to change.</p>
+    </div>
+    <div class="project-main">
+      
+        <section>
+          <h2>Friday</h2>
+            <table>
+                <tr>
+                    <th>Time</th>
+                    <th>Title</th>
+                    <th>Speaker</th>
+                    <th>Room</th>
+                </tr>
+                {% for point in site.data.program_friday %}
+                <tr>
+                    <td>{{point.time}}</td>
+                    <td>{{point.title}}</td>
+                    <td>{{point.speaker}}</td>
+                    <td>{{point.room}}</td>
+                </tr>
+              {% endfor %}
+            </table>
+        </section>
+        
+        <section>
+          <h2>Saturday</h2>
+            <table>
+                <tr>
+                    <th>Time</th>
+                    <th>Title</th>
+                    <th>Speaker</th>
+                    <th>Room</th>
+                </tr>
+                {% for point in site.data.program_saturday %}
+                <tr>
+                    <td>{{point.time}}</td>
+                    <td>{{point.title}}</td>
+                    <td>{{point.speaker}}</td>
+                    <td>{{point.room}}</td>
+                </tr>
+              {% endfor %}
+            </table>
+        </section>
+        
+        <section>
+          <h2>Sunday</h2>
+            <table>
+                <tr>
+                    <th>Time</th>
+                    <th>Title</th>
+                    <th>Speaker</th>
+                    <th>Room</th>
+                </tr>
+                {% for point in site.data.program_sunday %}
+                <tr>
+                    <td>{{point.time}}</td>
+                    <td>{{point.title}}</td>
+                    <td>{{point.speaker}}</td>
+                    <td>{{point.room}}</td>
+                </tr>
+              {% endfor %}
+            </table>
+        </section>
+      
+    </div>
+  </div>
+</article>

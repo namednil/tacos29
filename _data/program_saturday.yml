@@ -1,0 +1,60 @@
+- 1:
+  time: 9:00-10:00
+  room: "Foyer of C7.2"
+  title: "Breakfast and Poster Session"
+  speaker: ""
+  text: ""
+- 2:
+  time: 10:00-12:00
+  room: "Foyer of C7.2"
+  title: "Tutorials / Hackathon"
+  speaker: ""
+  text: ""
+- 3:
+  time: 12:00-13:30
+  room: "?"
+  title: "Lunch"
+  speaker: ""
+  text: ""
+- 4:
+  time: 13:30-14:15
+  room: "Conference room"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 5:
+  time: 14:15-15:00
+  room: "Conference room"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 6:
+  time: 15:00-15:45
+  room: "Conference room"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 7:
+  time: 15:45-16:15
+  room: ""
+  title: "Coffee break"
+  speaker: ""
+  text: ""
+- 8:
+  time: 16:15-17:00
+  room: "Conference room C7.4"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 9:
+  time: 17:00-17:45
+  room: "Conference room C7.4"
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 10:
+  time: 17:45-
+  room: ""
+  title: "Barbecue"
+  speaker: ""
+  text: ""
