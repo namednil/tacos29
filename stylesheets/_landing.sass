@@ -15,17 +15,14 @@
 
   .hero-center
     position: absolute
-    top: 60%
+    top: 50%
     left: 0
     right: 0
     -webkit-transform: translateY(-50%)
     transform: translateY(-50%)
     margin: auto
-    width: 100px
-    @media (min-width: $bp-s)
-      width: 357px
-    @media (min-width: $bp-m)
-      width: 545px
+    width: 35%
+
 
   .hero-heart
     width: 8rem
@@ -33,6 +30,10 @@
     margin: auto
 
   .hero-title
+    position: absolute
+    bottom: -25%
+    left: 0
+    right: 0
     @extend %font-serif
     display: inline-block
     padding-top: 0.1em
@@ -41,11 +42,10 @@
     text-align: center
     font-size: 22px
     line-height: 0.95
-    #border-top: 2px solid $seafoam-light
     @media (min-width: $bp-s)
       font-size: 36px
     @media (min-width: $bp-m)
-      font-size: 55px
+      font-size: 13mm
 
 .featurelist
   @extend %resetul
