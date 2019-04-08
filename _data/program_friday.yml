@@ -9,7 +9,7 @@
   room: "Conference room C7.4"
   title: ""
   speaker: "Prof. Alexander Koller"
-  text: ""
+  text: "Something about computational linguistics and deep learning."
 - 3:
   time: 14:45-15:30
   room: "Conference room C7.4"
