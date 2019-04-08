@@ -1,11 +1,48 @@
 .project
   background-color: $bg-color
+  
+/* style for program */
+.program-table
+  border-collapse: collapse
+  td
+    border: 0px
+  th
+    padding-top: 12px
+    padding-bottom: 12px
+    text-align: left
+    background-color: $seafoam-light
+    border: 0px
+    padding: 8px
+  tr
+    hover
+      background-color: #ddd
+    border: 1px solid #ddd
+    &:nth-child(2n)
+      background-color: #f2f2f2
+    &:nth-child(4n)
+      background-color: #ffffff
+  div.arrow
+    width: 16px
+    height: 16px
+    display: block
+    background:
+      color: transparent
+      image: url(/images/patterns/arrows.png)
+      repeat: no-repeat
+      attachment: scroll
+      position-x: 0px
+      position-y: -16px
+  div.up
+    background:
+      position-x: 0px
+      position-y: 0px
+
 
 /* form styling */
 /* ---------------------------------------- */
 
 .form-container
-  max-width: 500px
+  max-width: 1000px
   padding: 10px
   background-color: white
 
@@ -60,7 +97,7 @@
   left: 0
   height: 25px
   width: 25px
-  background-color: #eee
+  background-color:  #eee
   border-radius: 50%
 
 
@@ -72,7 +109,7 @@
 
 /* When the radio button is checked, add a blue background */
 .container input:checked ~ .checkmark 
-  background-color: #2196F3
+  background-color: $seafoam-light
 
 
 /* Create the indicator (the dot/circle - hidden when not checked) */

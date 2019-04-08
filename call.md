@@ -31,7 +31,7 @@ layout: project
         <h2>Posters</h2>
         <ul>
           Don't like talking in front of many people? Then this might be the right format for you. You can present your
-          work with a poster during breakfast and chat with interested people as they come $
+          work with a poster during breakfast and chat with interested people as they come by.
         </ul>
       </section>
 
@@ -48,16 +48,16 @@ layout: project
         <ul>
           <form method="post" class="form-container" role="form" id="paper-form" target="_self" onSubmit="" action="">
       
-            <label>Your Code (You received this after registering to attend.):</label>
-            <input id="call_code" name="uid" type="text" placeholder="Your Code">
+            <label>Your Code (You received this via E-mail after registering to attend.):</label>
+            <input id="call_code" name="uid" type="text" placeholder="Your Registration Code">
         
-            <label>Title of Talk or Tutorial:</label>
+            <label>Title:</label>
             <input id="title" name="title" type="text" placeholder="Title">
         
             <label>Subtitle or short description:</label>
             <input id="subtitle" name="subtitle" type="text" placeholder="Subtitle">
         
-            <label>Presentation:</label>
+            <label>Presentation Type:</label>
             <label class="container">Long Talk
                 <input type="radio" value="longtalk" checked="checked" name="presentation">
                 <span class="checkmark"></span>
@@ -75,10 +75,14 @@ layout: project
                 <span class="checkmark"></span>
             </label>
             <label>
-              A longer description of your contribution and anything else you'd like to tell us, for instance, a prefered time and date.<br></label>
+            Abstract:<br></label>
+            <textarea rows="5" name="abstract" form="paper-form" id="abstract" style="width:100%"></textarea>
+            
+            <label>
+              Is there anything else you'd like to tell us? For instance, do you need a power supply for a system demonstration?<br></label>
             <textarea rows="5" name="description" form="paper-form" id="description" style="width:100%"></textarea>
             <br><br>
-            <label>If you have written a paper about this, pleae upload it here (or if not your main source)<br></label>
+            <label>If you have written a paper or thesis about this, pleae upload it here. If you already have a draft of your slides, please add them as well.<br></label>
             <input type="file" name="talk_file" id="docpicker">
             <br><br><br>
 	    <div style="text-align: center">
