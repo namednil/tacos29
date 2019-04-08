@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TaCoS 2019
-description: Share Time & Knowledge
+description: Meet other Coli students
 ---
 
 <script src="{{ "/scripts/countdown.js" | prepend: site.baseurl}}"></script>
@@ -19,7 +19,6 @@ description: Share Time & Knowledge
   <div class="inner">
     <div class="about-text">
     <h2>Beware, this site is under construction! #UnderConstruction</h2>
-    <h1 id="countdown"></h1>
     </div>
   </div>
 </div>
@@ -46,13 +45,14 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
   <div class="inner">
     <div class="about-text">
         <h2>Timeline</h2>
+<p></p>
+Hurry, the early bird registration ends in only <strong id="countdown"></strong>!
 <div markdown="1">
-
-
-|  14 June   | Deadline Call for Presentations | 
-|       | Early Bird Registration |
-| - 14 June | Registration Period |
-| 21 - 23 June | TaCoS 2019 | 
+| around April 19 | Registration opens |
+|  June 9   | Deadline Call for Presentations | 
+|   - May 26    | Early Bird Registration |
+| - June 9 | Registration Period.   |
+| June 21-23 | TaCoS 2019 | 
 
 </div>
     </div>

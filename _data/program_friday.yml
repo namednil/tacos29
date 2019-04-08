@@ -5,38 +5,38 @@
   speaker: "TaCoS-Orga-Team"
   text: "You can fetch your conference material."
 - 2:
-  time: 14:00-15:00
+  time: 14:00-14:45
   room: "Conference room C7.4"
-  title: "Welcome!"
-  speaker: "Invited Speaker"
+  title: ""
+  speaker: "Prof. Alexander Koller"
   text: ""
 - 3:
-  time: 15:00-15:45
+  time: 14:45-15:30
   room: "Conference room C7.4"
   title: "Talk"
   speaker: ""
   text: ""
 - 4:
-  time: 15:45-16:15
+  time: 15:30-16:00
   room: ""
   title: "Coffee break"
   speaker: ""
   text: ""
 - 5:
-  time: 16:15-17:00
+  time: 16:00-16:45
   room: "Conference room C7.4"
   title: "Talk"
   speaker: ""
   text: ""
 - 6:
-  time: 17:00-17:45
+  time: 16:45-17:30
   room: "Conference room C7.4"
   title: "Talk"
   speaker: ""
   text: ""
 - 7:
-  time: 17:45-
+  time: 17:30-
   room: ""
-  title: "Guided Tour Through the City & Dinner"
+  title: "Guided tour through the city & dinner"
   speaker: ""
   text: ""

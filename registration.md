@@ -55,6 +55,13 @@ As soon as the registration is open, we will link it here.
                 <input type="radio" value="vegetarian" name="nutrition">
                 <span class="checkmark"></span>
               </label>
+        <p>
+         <label>Bus tickets:</label>
+         <br>
+            <input type="checkbox" name="ticket" value="ticket"> I need bus tickets for Saturday and Sunday
+        <br>
+        </p>
+
 
   	    <button style="background-color: #555555;color: white" id="register_button" onclick="register();" type="button">Register</button>
 	    <br>

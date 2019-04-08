@@ -6,15 +6,24 @@ layout: project
 <article>
   <div class="inner">
     <div class="project-intro">
-      <p>Deadline: TODO</p>
+      <p>Deadline: June 9</p>
     </div>
     <div class="project-main">
+    <p>
       A presentation could be about a thesis, an in-class project or some other topic you researched on or care about.
       We invite presentations in the following forms:
+    </p>
       <section>
-        <h2>Talks</h2>
+        <h2>Long Talks</h2>
         <ul>
-          Talks should take about 30 minutes and can be held in English or German.
+          Long Talks should take about 30 minutes and can be held in English or German.
+        </ul>
+      </section>
+      
+        <section>
+        <h2>Short Talks</h2>
+        <ul>
+          Talks should take about 15 minutes and can be held in English or German.
         </ul>
       </section>
 
@@ -49,8 +58,12 @@ layout: project
             <input id="subtitle" name="subtitle" type="text" placeholder="Subtitle">
         
             <label>Presentation:</label>
-            <label class="container">Talk
-                <input type="radio" value="talk" checked="checked" name="presentation">
+            <label class="container">Long Talk
+                <input type="radio" value="longtalk" checked="checked" name="presentation">
+                <span class="checkmark"></span>
+            </label>
+            <label class="container">Short Talk
+                <input type="radio" value="shorttalk" name="presentation">
                 <span class="checkmark"></span>
             </label>
             <label class="container">Poster
