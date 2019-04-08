@@ -4,6 +4,8 @@ title: TaCoS 2019
 description: Share Time & Knowledge
 ---
 
+<script src="{{ "/scripts/countdown.js" | prepend: site.baseurl}}"></script>
+<script>startCountdown();</script>
 <div class="hero">
   <div class="inner">
     <div class="hero-center">
@@ -17,6 +19,7 @@ description: Share Time & Knowledge
   <div class="inner">
     <div class="about-text">
     <h2>Beware, this site is under construction! #UnderConstruction</h2>
+    <h1 id="countdown"></h1>
     </div>
   </div>
 </div>
@@ -65,11 +68,10 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
         </ul>
         
         <div>
-            <img src="http://amicale46.de/images/logos/p&s_eule.gif" alt="Amicale" style="text-align: left; width: 10%;"> 
+            <img src="https://amicale46.de/images/logos/p&s_eule.gif" alt="Amicale" style="text-align: left; width: 10%;"> 
         </div>
     
     </div>
   </div>
 </div>
-
 
