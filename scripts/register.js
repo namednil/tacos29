@@ -22,38 +22,36 @@ function register() {
     return true;
 }
 function register_talk() {
-    var success = function (res) {
-        console.log(res)
-        if (res.status == "OK") {
-            $('#call-text').css("color", "green")
-        } else if (res.status == "ERROR") {
-            $('#call-text').css("color", "red")
-        }
-        $("#call-text").html(res.message);
-    }
-        
-    var form = $('#paper-form')[0];
-    console.log(form)
-    console.log($('#paper-form'))
-    console.log($('#paper-form')[0])
-    var data = new FormData(form);
-    data.append("talk_file", document.getElementById("docpicker").files[0]);
-    console.log(data)
+
+    var form = new FormData();
+    form.append("uid", $("#call_code").val());
+    form.append("title", $("#title").val());
+    form.append("subtitle", $("#subtitle").val());
+    form.append("presentation", $("input[name=presentation]:checked").val());
+    form.append("abstract", $("#abstract").val());
+    form.append("notes", $("#notes").val());
     
-    $.ajax({
-        type: "POST",
-        enctype: "multipart/form-data",
-        processData: false,  // Important!
-        contentType: "multipart/form-data",
-        cache: false,
-        url: "https://tacos2019.coli.uni-saarland.de:8080/talk",
-        data: data,//$("#paper-form").serialize(),
-        success: success,
-        dataType: 'json',
-        error: function (xhr) {
-            console.error(xhr)
-        }
+    for (let index = 0; index <  $("#talk_files")[0].files.length; index++) {
+        form.append("file"+index,  $("#talk_files")[0].files[index], ".pdf");
+    }
+    
+    var settings = {
+      "async": true,
+      "crossDomain": true,
+      "url": "https://tacos2019.coli.uni-saarland.de:8080/talk",
+      "method": "POST",
+      "headers": {
+      },
+      "processData": false,
+      "contentType": false,
+      "mimeType": "multipart/form-data",
+      "data": form
+    }
+    
+    $.ajax(settings).done(function (response) {
+      console.log(response);
     });
+
 }
 
 function checkCode() {
