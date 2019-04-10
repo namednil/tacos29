@@ -45,7 +45,6 @@ layout: project
 
       <section>
         <h2>Register for a Talk</h2>
-	<p>TODO: Not working yet!!!</p>
         <ul>
           <form method="post" class="form-container" role="form" id="paper-form" target="_self" onSubmit="" action="">
       

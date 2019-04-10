@@ -16,6 +16,8 @@ function register() {
         success: success,
         dataType: 'json',
         error: function (xhr) {
+            $('#confirm-text').css("color", "red")
+            $("#confirm-text").html(xhr.responseText);
             console.error(xhr)
         }
     });
@@ -45,11 +47,22 @@ function register_talk() {
       "processData": false,
       "contentType": false,
       "mimeType": "multipart/form-data",
-      "data": form
+      "data": form,
+      error: function (xhr) {
+        $('#call-text').css("color", "red")
+        $("#call-text").html(xhr.responseText);
+        console.error(xhr)
+    }
     }
     
     $.ajax(settings).done(function (response) {
       console.log(response);
+      if (response.status == "OK") {
+          $('#call-text').css("color", "green")
+      } else if (response.status == "ERROR") {
+          $('#call-text').css("color", "red")
+      }
+      $("#call-text").html(response.message);
     });
 
 }
@@ -71,6 +84,8 @@ function checkCode() {
         data: { uid: uid },
         success: success,
         error: function (xhr) {
+            $('#code-text').css("color", "red")
+            $("#code-text").html(xhr.responseText);
             console.error(xhr)
         }
     });
