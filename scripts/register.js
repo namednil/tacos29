@@ -38,31 +38,32 @@ function register_talk() {
     }
     
     var settings = {
-      "async": true,
-      "crossDomain": true,
-      "url": "https://tacos2019.coli.uni-saarland.de:8080/talk",
-      "method": "POST",
-      "headers": {
-      },
-      "processData": false,
-      "contentType": false,
-      "mimeType": "multipart/form-data",
-      "data": form,
-      error: function (xhr) {
-        $('#call-text').css("color", "red")
-        $("#call-text").html(xhr.responseText);
-        console.error(xhr)
+        "async": true,
+        "crossDomain": true,
+        "url": "https://tacos2019.coli.uni-saarland.de:8080/talk",
+        "method": "POST",
+        "headers": {
+        },
+        "processData": false,
+        "contentType": false,
+        "mimeType": "multipart/form-data",
+        "data": form,
+        error: function (xhr) {
+            $('p#call-text').css("color", "red")
+            $("p#call-text").html(xhr.responseText);
+            console.error(xhr)
+        }
     }
-    }
-    
+        
     $.ajax(settings).done(function (response) {
-      console.log(response);
-      if (response.status == "OK") {
-          $('#call-text').css("color", "green")
-      } else if (response.status == "ERROR") {
-          $('#call-text').css("color", "red")
-      }
-      $("#call-text").html(response.message);
+        response = $.parseJSON(response)
+        console.log(response);
+        if (response.status == "OK") {
+            $('#call-text').css("color", "green")
+        } else if (response.status == "ERROR") {
+            $('#call-text').css("color", "red")
+        }
+        $("#call-text").html(response.message);
     });
 
 }
