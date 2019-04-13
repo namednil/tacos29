@@ -5,7 +5,11 @@ description: Meet other Coli students
 ---
 
 <script src="{{ "/scripts/countdown.js" | prepend: site.baseurl}}"></script>
-<script>startCountdown();</script>
+<script>startCountdown("May 27, 2019 00:00:01","early_bird",true);</script>
+<script>startCountdown("June 10, 2019 00:00:01","registration",true);</script>
+<script>startCountdown("June 10, 2019 00:00:01","presentation",true);</script>
+<script>startCountdown("June 21, 2019 00:00:01","tacos",false);</script>
+
 <div class="hero">
   <div class="inner">
     <div class="hero-center">
@@ -46,15 +50,32 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
     <div class="about-text">
         <h2>Timeline</h2>
 <p></p>
-Hurry, the early bird registration ends in only <strong id="countdown"></strong>!
-<div markdown="1">
-| around April 19 | Registration opens |
-|  June 9   | Deadline Call for Presentations | 
-|   - May 26    | Early Bird Registration |
-| - June 9 | Registration Period.   |
-| June 21-23 | TaCoS 2019 | 
-
-</div>
+<table class="timeline-table">
+  <tr>
+    <th>Date</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td>around April 19</td>
+    <td>Registration opens</td>
+  </tr>
+  <tr>
+    <td>- May 26 (only <strong id="early_bird"></strong> left)</td>
+    <td>Early Bird Registration</td>
+  </tr>
+  <tr>
+    <td>- June 9 (<strong id="registration"></strong> left)</td>
+    <td>Registration Period</td>
+  </tr>
+  <tr>
+    <td>- June 9 (<strong id="presentation"></strong> left)</td>
+    <td>Call for Presentations</td>
+  </tr>
+    <tr>
+    <td>June 21-23 (in <strong id="tacos"></strong>)</td>
+    <td>TaCoS 29</td>
+  </tr>
+</table>
     </div>
   </div>
 </div>
@@ -62,15 +83,12 @@ Hurry, the early bird registration ends in only <strong id="countdown"></strong>
 <div class="about" id="Sponsors">
   <div class="inner">
     <div class="about-text">
-        <h2>Sponsors and Supporters</h2>
+        <h2>Sponsors</h2>
         <ul>
-            Platzhalter?
-        </ul>
-        
         <div>
-            <img src="https://amicale46.de/images/logos/p&s_eule.gif" alt="Amicale" style="text-align: left; width: 10%;"> 
+            <img src="/images/sponsors/GSCL_Logo-Schrift_RGB.jpg" alt="GSCL" style="text-align: left; width: 20%;"> 
         </div>
-    
+        </ul>
     </div>
   </div>
 </div>

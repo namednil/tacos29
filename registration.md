@@ -58,7 +58,7 @@ As soon as the registration is open, we will link it here.
         <p>
          <label>Bus tickets:</label>
          <br>
-            <input type="checkbox" name="ticket" value="ticket"> I need bus tickets for Saturday and Sunday
+            <input type="checkbox" name="ticket" value="ticket"> I need bus tickets
         <br>
         </p>
 

@@ -1,6 +1,39 @@
 .project
   background-color: $bg-color
   
+
+/* style for timeline table */
+.timeline-table
+  border-collapse: collapse
+  td
+    border: 0px
+  th
+    padding-top: 12px
+    padding-bottom: 12px
+    text-align: left
+    background-color: $seafoam-light
+    border: 0px
+    padding: 8px
+  tr
+    border: 1px solid #ddd
+    &:nth-child(2n)
+      background-color: #f2f2f2
+  div.arrow
+    width: 16px
+    height: 16px
+    display: block
+    background:
+      color: transparent
+      image: url(/images/patterns/arrows.png)
+      repeat: no-repeat
+      attachment: scroll
+      position-x: 0px
+      position-y: -16px
+  div.up
+    background:
+      position-x: 0px
+      position-y: 0px  
+
 /* style for program */
 .program-table
   border-collapse: collapse
