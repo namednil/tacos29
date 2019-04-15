@@ -2,7 +2,6 @@
 title: Call for Presentations
 layout: project
 ---
-<svg id="definition" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><symbol id="required" viewbox="0 0 128 128"><g><path d="M110.1,16.4L75.8,56.8l0.3,1l50.6-10.2v32.2l-50.9-8.9l-0.3,1l34.7,39.1l-28.3,16.5L63.7,78.2L63,78.5   l-18.5,49L17.2,111l34.1-39.8v-0.6l-50,9.2V47.6l49.3,9.9l0.3-0.6L17.2,16.7L45.5,0.5l17.8,48.7H64L82.1,0.5L110.1,16.4z"></path></g></symbol></defs></svg>
 
 <article>
   <div class="inner">
@@ -10,41 +9,42 @@ layout: project
       <p>Deadline: June 9</p>
     </div>
     <div class="project-main">
+    <h2>Presenting at TaCoS 29</h2>
     <p>
       A presentation could be about a thesis, an in-class project or some other topic you researched on or care about.
       We invite presentations in the following forms:
     </p>
       <section>
-        <h2>Long Talks</h2>
+        <h3>Long Talks</h3>
         <ul>
-          Long Talks should take about 30 minutes and can be held in English or German.
+          Long Talks should take 30 minutes and can be held in English or German. Speakers don't have to pay the attendence fee.
         </ul>
       </section>
       
-        <section>
-        <h2>Short Talks</h2>
+    <section>
+        <h3>Short Talks</h3>
         <ul>
-          Talks should take about 15 minutes and can be held in English or German.
+          Talks should take 15 minutes and can be held in English or German. Speakers pay half of the attendence fee.
         </ul>
       </section>
 
       <section>
-        <h2>Posters</h2>
+        <h3>Posters</h3>
         <ul>
           Don't like talking in front of many people? Then this might be the right format for you. You can present your
-          work with a poster during breakfast and chat with interested people as they come by.
+          work with a poster during breakfast and chat with interested people as they come by. By the way, presenters pay half of the attendence fee.
         </ul>
       </section>
 
       <section>
-        <h2>Tutorials</h2>
+        <h3>Tutorials</h3>
         <ul>
-          You've learned something cool (the hard way) and want to share your knowledge? Consider giving a tutorial :)
+          You've learned something cool (the hard way) and want to share your knowledge? Consider giving a tutorial! By the way, presenters of tutorials don't have to pay the attendence fee.
         </ul>
       </section>
 
       <section>
-        <h2>Register for a Talk</h2>
+        <h2>Register a Presentation</h2>
         <ul>
           <form method="post" class="form-container" role="form" id="paper-form" target="_self" onSubmit="" action="">
       
@@ -75,7 +75,7 @@ layout: project
                 <span class="checkmark"></span>
             </label>
             <label>
-            Abstract:<br></label>
+            Abstract as will be shown in the conference program:<br></label>
             <textarea rows="5" name="abstract" form="paper-form" id="abstract" style="width:100%"></textarea>
             
             <label>
@@ -94,6 +94,7 @@ layout: project
       </section>
     </div>
   </div>
+<svg id="definition" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><symbol id="required" viewbox="0 0 128 128"><g><path d="M110.1,16.4L75.8,56.8l0.3,1l50.6-10.2v32.2l-50.9-8.9l-0.3,1l34.7,39.1l-28.3,16.5L63.7,78.2L63,78.5   l-18.5,49L17.2,111l34.1-39.8v-0.6l-50,9.2V47.6l49.3,9.9l0.3-0.6L17.2,16.7L45.5,0.5l17.8,48.7H64L82.1,0.5L110.1,16.4z"></path></g></symbol></defs></svg>
 </article>
 
 

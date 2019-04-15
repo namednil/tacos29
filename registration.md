@@ -17,14 +17,15 @@ layout: project
         <ul>
 
 <div markdown="1">
-Unfortunately, you have to pay a fee of TODO € to help cover the costs of the conference. Included in the costs are at least:
-- breakfast on saturday and sunday
-- lunch and dinner on saturday
-- beverages and snacks during the conference
+Unfortunately, you have to pay a fee to help cover the costs of the conference. Included in the fee are:
+- Bus tickets for all three days
+- Barbecue on friday
+- Breakfast on saturday and sunday
+- Lunch on saturday
+- Beverages and snacks during the conference
 
-You can avoid paying (or at least reduce) the fee by [presenting](/call/) something :) 
 
-As soon as the registration is open, we will link it here.
+You can reduce the fee considerably by [presenting](/call/) something :)
 </div>
 
 	  
@@ -41,6 +42,8 @@ As soon as the registration is open, we will link it here.
 
               <label>Email:</label>
               <input id="email" name="email" type="email" placeholder="Your Email">
+            <label>University/Affiliation:</label>
+              <input id="university" name="university" type="text" placeholder="Your University">
             
 	      <label>Nutrition:</label>
               <label class="container">Omnivorous
