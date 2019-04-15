@@ -82,6 +82,7 @@ You can reduce the fee considerably by [presenting](/call/) something :)
 
         </ul>  
         <h2>Check Registration Status</h2>
+        <div id="status">
         <ul>
 
 <div markdown="1">
@@ -95,6 +96,7 @@ If you want to check your registration status, paste here the code we sent you v
           <br>
           <p id="code-text"></p>
         </ul>
+        </div>
       </section>
     </div>
   </div>
