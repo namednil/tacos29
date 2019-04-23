@@ -6,7 +6,9 @@ layout: project
 <article>
   <div class="inner">
     <div class="project-intro">
-      <p>The registration is not open yet.</p>
+        
+      <p>The registration will be open very soon!</p>
+      <img src="/images/logos/Taco.svg" alt="Owl with taco" style="text-align: center; width: 100%;"> 
     </div>
     <div class="project-main">
                 
@@ -20,12 +22,13 @@ layout: project
 Unfortunately, you have to pay a fee to help cover the costs of the conference. Included in the fee are:
 - Bus tickets for all three days
 - Barbecue on friday
-- Breakfast on saturday and sunday
-- Lunch on saturday
+- Breakfast on Saturday and Sunday
+- Lunch on Saturday
 - Beverages and snacks during the conference
 
+The early bird catches the worm! If you register for TaCoS **until May 26**, you will only have to pay an attendence fee of **20€**. Afterwards, the attendence fee increases to **25€**.
 
-You can reduce the fee considerably by [presenting](/call/) something :)
+You can reduce the fee considerably by [presenting](/call/) your research.
 </div>
 
 	  

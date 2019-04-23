@@ -7,11 +7,12 @@ layout: project
   <div class="inner">
     <div class="project-intro">
       <p>Deadline: June 9</p>
+      <img src="/images/logos/Taco.svg" alt="Owl with taco" style="text-align: center; width: 100%;"> 
     </div>
     <div class="project-main">
     <h2>Presenting at TaCoS 29</h2>
     <p>
-      A presentation could be about a thesis, an in-class project or some other topic you researched on or care about.
+      A presentation could be about a thesis, an in-class project or some other topic you researched on or anything you care about related to computational linguistics.
       We invite presentations in the following forms:
     </p>
       <section>
@@ -24,7 +25,7 @@ layout: project
     <section>
         <h3>Short Talks</h3>
         <ul>
-          Talks should take 15 minutes and can be held in English or German. Speakers pay half of the attendence fee.
+          Short Talks should take 15 minutes and can be held in English or German. Speakers pay half of the attendence fee.
         </ul>
       </section>
 
@@ -32,7 +33,7 @@ layout: project
         <h3>Posters</h3>
         <ul>
           Don't like talking in front of many people? Then this might be the right format for you. You can present your
-          work with a poster during breakfast and chat with interested people as they come by. By the way, presenters pay half of the attendence fee.
+          work with a poster during breakfast and chat with interested people as they come by. By the way, presenters of posters pay half of the attendence fee.
         </ul>
       </section>
 
