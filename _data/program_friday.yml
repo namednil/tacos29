@@ -7,9 +7,9 @@
 - 2:
   time: 14:00-14:45
   room: "Conference room C7.4"
-  title: ""
+  title: "Computational Linguistics in the Era of Deep Learning"
   speaker: "Prof. Alexander Koller"
-  text: "Something about computational linguistics and deep learning."
+  text: "Over the past few years, deep learning methods have revolutionized our field. Many problems that everyone used to think required symbolic knowledge of some kind (e.g. grammars, whether written by hand or learned from corpora) can now be solved more accurately and more robustly using neural networks. This raises the question whether it is even still useful for computational linguistics students to learn about linguistic foundations - shouldn't we all just do machine learning instead? In my talk, I will try to discuss some recent research, from Saarbrücken and elsewhere, on the successes and limitations of pure deep learning methods and on what it means to combine deep learning with linguistic insights."
 - 3:
   time: 14:45-15:30
   room: "Conference room C7.4"
@@ -37,6 +37,6 @@
 - 7:
   time: 17:30-
   room: ""
-  title: "Guided tour through the city & dinner"
+  title: "Barbecue"
   speaker: ""
   text: ""
