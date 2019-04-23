@@ -20,7 +20,7 @@ layout: project
 
 <div markdown="1">
 Unfortunately, you have to pay a fee to help cover the costs of the conference. Included in the fee are:
-- Bus tickets for all three days
+- Bus tickets for Saarbrücken for all three days
 - Barbecue on friday
 - Breakfast on Saturday and Sunday
 - Lunch on Saturday
@@ -64,7 +64,7 @@ You can reduce the fee considerably by [presenting](/call/) your research.
         <p>
          <label>Bus tickets:</label>
          <br>
-            <input type="checkbox" name="ticket" value="ticket"> I need bus tickets
+            <input type="checkbox" name="ticket" value="ticket"> I need bus tickets for within Saarbrücken.
         <br>
         </p>
 
