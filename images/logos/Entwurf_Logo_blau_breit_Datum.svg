@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" width="115mm" height="104mm" viewBox="0 0 11500 10400" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<svg version="1.2" width="115mm" height="101.8mm" viewBox="0 0 11500 10180" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs class="ClipPathGroup">
   <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
-   <rect x="0" y="0" width="11500" height="10400"/>
+   <rect x="0" y="0" width="11500" height="10180"/>
   </clipPath>
   <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
-   <rect x="11" y="10" width="11477" height="10380"/>
+   <rect x="11" y="10" width="11477" height="10160"/>
   </clipPath>
  </defs>
  <defs>
@@ -209,7 +209,7 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id12">
-        <rect class="BoundingBox" stroke="none" fill="none" x="1400" y="7300" width="8401" height="3101"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1400" y="7300" width="8401" height="2932"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Lato" font-size="1129px" font-weight="400"><tspan class="TextPosition" x="1662" y="8335"><tspan fill="rgb(0,0,0)" stroke="none">June 21</tspan></tspan><tspan class="TextPosition" x="5582" y="7962"><tspan font-size="655px" fill="rgb(0,0,0)" stroke="none">st</tspan></tspan><tspan class="TextPosition" x="6098" y="8335"><tspan fill="rgb(0,0,0)" stroke="none"> - 23</tspan></tspan><tspan class="TextPosition" x="8405" y="7962"><tspan font-size="655px" fill="rgb(0,0,0)" stroke="none">rd</tspan></tspan><tspan class="TextPosition" x="8993" y="8335"><tspan fill="rgb(0,0,0)" stroke="none">, </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Lato" font-size="1129px" font-weight="400"><tspan class="TextPosition" x="2537" y="9885"><tspan fill="rgb(0,0,0)" stroke="none">Saarbrücken</tspan></tspan></tspan></text>
        </g>
       </g>
