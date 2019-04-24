@@ -6,8 +6,7 @@ layout: project
 <article>
   <div class="inner">
     <div class="project-intro">
-        
-      <p>The registration will be open very soon!</p>
+        <p>The registration is open now until June 9.</p>
       <img src="/images/logos/Taco.svg" alt="Owl with taco" style="text-align: center; width: 100%;"> 
     </div>
     <div class="project-main">

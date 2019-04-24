@@ -18,13 +18,6 @@ description: Meet other Coli students
   </div>
 </div>
 
-<div class="about" id="about">
-  <div class="inner">
-    <div class="about-text">
-    <h2>Beware, this site is under construction! #UnderConstruction</h2>
-    </div>
-  </div>
-</div>
 
 <div class="about" id="about">
   <div class="inner">
