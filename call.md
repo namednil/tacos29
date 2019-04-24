@@ -80,10 +80,10 @@ layout: project
             <textarea rows="5" name="abstract" form="paper-form" id="abstract" style="width:100%"></textarea>
             
             <label>
-              Is there anything else you'd like to tell us? Do you need anything specific (e.g. power supply)? Do you have a preferrred time slot?<br></label>
+              Is there anything else you'd like to tell us? Do you need anything specific (e.g. power supply)? Do you have a preferred time slot?<br></label>
             <textarea rows="5" name="notes" form="paper-form" id="notes" style="width:100%"></textarea>
             <br><br>
-            <label>If you have written a paper or thesis about this, pleae upload it here. If you already have a draft of your slides, please add them as well.<br></label>
+            <label>If you have written a paper or thesis about this, please upload it here. If you already have a draft of your slides, please add them as well.<br></label>
             <input type="file" name="talk_files[]" id="talk_files" multiple>
             <br><br><br>
 	    <div style="text-align: center">

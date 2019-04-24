@@ -13,8 +13,7 @@ description: Meet other Coli students
 <div class="hero">
   <div class="inner">
     <div class="hero-center">
-       <img src="images/logos/Entwurf_Logo_blau_breit.svg" alt="Tacos Logo" style="text-align: center; width: 100%;"> 
-       <h1 class="hero-title">June 21<sup>st</sup> - 23<sup>rd</sup>, Saarbrücken </h1>
+       <img src="images/logos/Entwurf_Logo_blau_breit_Datum.svg" alt="Tacos Logo" style="text-align: center; width: 100%;"> 
     </div>
   </div>
 </div>
