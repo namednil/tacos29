@@ -31,9 +31,9 @@ description: Meet other Coli students
     <div class="about-text">
       <h2>About TaCoS 29</h2>
 <div markdown="1">
-We are excited to host the TaCoS 29 (Tagung der Computerlinguistik-Studierenden) in Saarbrücken this year. TaCoS is a conference series dating back to the 90s that is open to any student interested in the areas of computational linguistics and natural language processing as well as its neighboring applied and theoretical disciplines from psycholinguistics to computer science.
+We are excited to host the TaCoS 29 (Tagung der Computerlinguistik-Studierenden) in Saarbrücken in 2019. TaCoS is a conference series dating back to the 90s that is open to any student interested in the areas of computational linguistics and natural language processing as well as its neighboring applied and theoretical disciplines from psycholinguistics to computer science.
 
-As such, the topics covered at TaCoS are very broad. To get an impression of the variety, have a look at the [schedule from last year](/images/old_schedule.pdf)  in Potsdam.
+As such, the topics covered at any TaCoS are very broad. To get an impression of the variety, have a look at the [schedule from last year](/images/old_schedule.pdf) in Potsdam.
 
 While the time at TaCoS is mainly spent on scientific exchange, it's also a great place to get to know each other better and build bridges.
 
