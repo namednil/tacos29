@@ -58,7 +58,7 @@ layout: project
             <label for="subtitle">Subtitle or short description:</label>
             <input id="subtitle" name="subtitle" type="text" placeholder="Subtitle" required>
         
-            <label>Presentation Type:<svg class="icon" focusable="false"><use xlink:href="#required"></use></svg></label>
+            <label>Presentation type:<svg class="icon" focusable="false"><use xlink:href="#required"></use></svg></label>
             <label class="container">Long Talk
                 <input type="radio" value="longtalk" checked="checked" name="presentation">
                 <span class="checkmark"></span>
@@ -76,7 +76,7 @@ layout: project
                 <span class="checkmark"></span>
             </label>
             <label>
-            Abstract as will be shown in the conference program:<br></label>
+            Abstract in the language of presentation, as will be shown in the conference program:<br></label>
             <textarea rows="5" name="abstract" form="paper-form" id="abstract" style="width:100%"></textarea>
             
             <label>
@@ -87,7 +87,7 @@ layout: project
             <input type="file" name="talk_files[]" id="talk_files" multiple>
             <br><br><br>
 	    <div style="text-align: center">
-              <button style="background-color: #555555;color: white" id="talk_button" onclick="register_talk();" type="button">Submit for Review</button>
+              <button style="background-color: #555555;color: white" id="talk_button" onclick="register_talk();" type="button">Submit for review</button>
             </div>
             <p id="call-text"></p>
         </form>
