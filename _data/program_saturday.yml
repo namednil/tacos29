@@ -19,9 +19,9 @@
 - 4:
   time: 13:30-14:15
   room: "Conference room"
-  title: "Talk"
-  speaker: ""
-  text: ""
+  title: "Alexa, schreiben Sie! - Erfahrungen mit Sprachsteuerung"
+  speaker: "Alexander Frey"
+  text: "Ich haben einen Amazon-Alexa-Skill für einen Webshop geschrieben. Von jener Teilmenge meiner Erfahrungen, die anderen bei ihren Projekten helfen könnten, berichte ich. Wir beginnen bei der Korpus-Sammlung und enden beim Interaktionsmodell."
 - 5:
   time: 14:15-15:00
   room: "Conference room"
