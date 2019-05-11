@@ -80,7 +80,8 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
         <ul>
         <div>
             <a target="_blank" href="https://gscl.org/"><img src="/images/sponsors/GSCL_Logo-Schrift_RGB.jpg" alt="GSCL" style="text-align: left; width: 20%;"></a>
-            <a target="_blank" href="http://www.sfb1102.uni-saarland.de/"><img src="/images/sponsors/logosfb.svg" alt="GSCL" style="text-align: left; width: 20%; padding-left: 5%;"></a>
+            <a target="_blank" href="http://www.sfb1102.uni-saarland.de/"><img src="/images/sponsors/logosfb.svg" alt="SFB 1102" style="text-align: left; width: 20%; padding-left: 5%;"></a>
+            <a target="_blank" href="mailto:tacos2019@coli.uni-saarland.de"><img src="/images/sponsors/Become_a_sponsor.svg" alt="Become a sponsor" style="text-align: left; width: 30%; padding-left: 5%;"></a>
         </div>
         </ul>
     </div>
