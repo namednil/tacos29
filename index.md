@@ -53,7 +53,7 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
     <td>Registration opens</td>
   </tr>
   <tr>
-    <td>- May 26 (only <strong id="early_bird"></strong> left)</td>
+    <td>- May 26</td>
     <td>Early Bird Registration (registration fee 20€)</td>
   </tr>
   <tr>
