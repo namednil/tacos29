@@ -79,10 +79,10 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
         <h2>Sponsors</h2>
         <ul>
         <div>
-            <a target="_blank" href="https://gscl.org/"><img src="/images/sponsors/GSCL_Logo-Schrift_RGB.jpg" alt="GSCL" style="text-align: left; width: 20%;"></a>
-            <a target="_blank" href="http://www.sfb1102.uni-saarland.de/"><img src="/images/sponsors/logosfb.svg" alt="SFB 1102" style="text-align: left; width: 20%; padding-left: 5%;"></a>
-            <a target="_blank" href="https://www.dfki.de/web/"><img src="https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png" alt="DFKI" style="text-align: left; width: 25%; padding-left: 5%;"></a>
-            <a target="_blank" href="https://iailc.de/"><img src="https://iailc.de/images/iailc/Web_ft-15.png" alt="IAI Linguistic Content AG" style="text-align: left; width: 25%; padding-left: 5%;"></a>
+            <img src="/images/sponsors/GSCL_Logo-Schrift_RGB.jpg" alt="GSCL" style="text-align: left; width: 20%;">
+            <img src="/images/sponsors/logosfb.svg" alt="SFB 1102" style="text-align: left; width: 20%; padding-left: 5%;">
+            <img src="https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png" alt="DFKI" style="text-align: left; width: 25%; padding-left: 5%;">
+            <img src="https://iailc.de/images/iailc/Web_ft-15.png" alt="IAI Linguistic Content AG" style="text-align: left; width: 25%; padding-left: 5%;">
         </div>
         </ul>
         <div>
