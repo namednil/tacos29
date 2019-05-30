@@ -13,9 +13,9 @@
 - 3:
   time: 14:45-15:30
   room: "Conference room C7.4"
-  title: "Talk"
-  speaker: ""
-  text: ""
+  title: "ADVISER - an open source dialog system framework"
+  speaker: "Moritz Völkel"
+  text: "We present ADVISER - an open source dialog system framework for education and research purposes. This system supports multi-domain task-oriented conversations in two languages. It additionally provides a flexible, modular design in which modules can be arbitrarily combined or exchanged - allowing for easy switching between rules-based and neural network based implementations. Furthermore, ADVISER offers a transparent, user-friendly framework designed for interdisciplinary collaboration: from a flexible back end, allowing easy integration of new features, to an intuitive graphical user interface suitable for non-technical users."
 - 4:
   time: 15:30-16:00
   room: ""
