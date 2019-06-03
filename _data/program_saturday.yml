@@ -6,53 +6,59 @@
   text: ""
 - 2:
   time: 10:00-12:00
-  room: "Foyer of C7.2"
+  room: "TBD"
   title: "Tutorials / Hackathon"
   speaker: ""
   text: ""
 - 3:
+  time: 10:00-12:00
+  room: "TBD"
+  title: "Workshop: Graphemic Standardisation and Human Writing Systems"
+  speaker: "Victor Zimmermann"
+  text: "One of the oldest human inventions, writing, has been around for a long while. For the longest time the only governing body of what could be written was one's own wrist and writing utensil. Starting with the printing press this changed as people had to agree what would be part of a character set, and what would not be. For computers this task has mostly been taken over by the Unicode standard, just one in a long string of international rulebooks for graphemic standardisation. But what makes a good international standard when it comes to writing systems? Is Unicode the be-all and end-all of what we can expect of alphabets in the digital age or is there still more to come? If we were to create a new standard, could Emojis of all places be the way forward? In this workshop we will dive deep into some very diverse alphabets, explore the cultural and historic significance of the Unicode standard and explore its advantages and shortcomings."
+- 4:
   time: 12:00-13:30
-  room: "?"
+  room: "TBD"
   title: "Lunch"
   speaker: ""
   text: ""
-- 4:
+- 5:
   time: 13:30-14:15
   room: "Conference room"
   title: "Alexa, schreiben Sie! - Erfahrungen mit Sprachsteuerung"
   speaker: "Alexander Frey"
   text: "Ich haben einen Amazon-Alexa-Skill für einen Webshop geschrieben. Von jener Teilmenge meiner Erfahrungen, die anderen bei ihren Projekten helfen könnten, berichte ich. Wir beginnen bei der Korpus-Sammlung und enden beim Interaktionsmodell."
-- 5:
+- 6:
   time: 14:15-15:00
   room: "Conference room"
   title: "Talk"
   speaker: ""
   text: ""
-- 6:
+- 7:
   time: 15:00-15:45
   room: "Conference room"
   title: "Talk"
   speaker: ""
   text: ""
-- 7:
+- 8:
   time: 15:45-16:15
   room: ""
   title: "Coffee break"
   speaker: ""
   text: ""
-- 8:
+- 9:
   time: 16:15-17:00
   room: "Conference room C7.4"
   title: "Talk"
   speaker: ""
   text: ""
-- 9:
+- 10:
   time: 17:00-17:45
   room: "Conference room C7.4"
   title: "Talk"
   speaker: ""
   text: ""
-- 10:
+- 11:
   time: 17:45-
   room: ""
   title: "Guided tour through the city & dinner"
