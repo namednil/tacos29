@@ -83,11 +83,20 @@ We hope to welcome as many of you as possible and hope you'll have a great time 
             <img src="/images/sponsors/logosfb.svg" alt="SFB 1102" style="text-align: left; width: 20%; padding-left: 5%;">
             <img src="https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png" alt="DFKI" style="text-align: left; width: 25%; padding-left: 5%;">
             <img src="https://iailc.de/images/iailc/Web_ft-15.png" alt="IAI Linguistic Content AG" style="text-align: left; width: 25%; padding-left: 5%;">
+            
         </div>
         </ul>
+        <ul>
+        <div>
+            <strong>Fakultätsrat der philosophischen Fakultät<br>der Universität des Saarlandes</strong>
+            <img src="/images/sponsors/paragon_semvox.jpg" alt="Paragon Semvox GmbH" style="text-align: left; width: 45%; padding-left: 17%;">
+        </div>
+        </ul>
+<!--
         <div>
             <a href="mailto:tacos2019@coli.uni-saarland.de"><img src="/images/sponsors/Become_a_sponsor.svg" alt="Become a sponsor" style="text-align: left; width: 25%;"></a>
         </div>
+-->
         
     </div>
   </div>
