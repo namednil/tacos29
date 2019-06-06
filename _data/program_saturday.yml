@@ -66,7 +66,7 @@
 - 12:
   time: 17:10-17:35
   room: "Conference room in C7.4"
-  title: "Analyzing BERT's power"
+  title: "Relation Prediction with BERT"
   speaker: "Jannis Rautenstrauch"
   text: "On social media platforms like Twitter, millions of users discuss hundreds of topics every day. If it is possible to automatically predict the relations between those posts, a lot can be learned about public opinions and the dynamics of discussion. This work is an analysis of whether pre-trained language models such as Google’s BERT which achieve state-of-the-art results in many NLP tasks can be used for the task of relation prediction in argument mining. The task is very challenging due to the small size of existing datasets for training and the fact that it involves high-level knowledge representation and reasoning issues. First results show that BERT outperforms currently used manual feature engineering solutions."
 - 13:
