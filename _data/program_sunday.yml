@@ -6,19 +6,19 @@
   text: ""
 - 2:
   time: 10:00-10:45
-  room: "Conference room"
+  room: ""
   title: "Talk"
   speaker: ""
   text: ""
 - 3:
   time: 10:45-11:30
-  room: "Conference room"
+  room: ""
   title: "Talk"
   speaker: ""
   text: ""
 - 4:
   time: 11:30-12:00
-  room: "Conference room"
-  title: "Closing Remarks & Next Tacos"
+  room: "Conference room in C7.4"
+  title: "Closing Remarks & Next TaCoS"
   speaker: "TaCoS Team"
   text: ""

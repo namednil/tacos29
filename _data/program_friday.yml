@@ -6,13 +6,13 @@
   text: "You can fetch your conference material."
 - 2:
   time: 14:00-14:45
-  room: "Conference room C7.4"
+  room: "Conference room in C7.4"
   title: "Computational Linguistics in the Era of Deep Learning"
   speaker: "Prof. Alexander Koller"
   text: "Over the past few years, deep learning methods have revolutionized our field. Many problems that everyone used to think required symbolic knowledge of some kind (e.g. grammars, whether written by hand or learned from corpora) can now be solved more accurately and more robustly using neural networks. This raises the question whether it is even still useful for computational linguistics students to learn about linguistic foundations - shouldn't we all just do machine learning instead? In my talk, I will discuss some recent research (from Saarbrücken and elsewhere) on the successes and limitations of pure deep learning methods and propose some partial answers on what it means to combine deep learning with linguistic insights."
 - 3:
   time: 14:45-15:30
-  room: "Conference room C7.4"
+  room: "Conference room in C7.4"
   title: "ADVISER - an open source dialog system framework"
   speaker: "Moritz Völkel"
   text: "We present ADVISER - an open source dialog system framework for education and research purposes. This system supports multi-domain task-oriented conversations in two languages. It additionally provides a flexible, modular design in which modules can be arbitrarily combined or exchanged - allowing for easy switching between rules-based and neural network based implementations. Furthermore, ADVISER offers a transparent, user-friendly framework designed for interdisciplinary collaboration: from a flexible back end, allowing easy integration of new features, to an intuitive graphical user interface suitable for non-technical users."
@@ -24,16 +24,18 @@
   text: ""
 - 5:
   time: 16:00-16:45
-  room: "Conference room C7.4"
+  room: "Conference room in C7.4"
   title: "Talk"
   speaker: ""
   text: ""
 - 6:
   time: 16:45-17:30
-  room: "Conference room C7.4"
-  title: "Talk"
-  speaker: ""
-  text: ""
+  room: "Conference room in C7.4"
+  title: "Compositional semantic graph parsing"
+  speaker: "Matthias Lindemann"
+  text: "With the availability of semantic graphbanks, there has been a growing interest in parsing sentences into graphs that represent sentence-level meaning (e.g. Abstract Meaning Representation).
+These semantic graphs exist in many \"flavors\" with differences in what they represent and how they relate to their sentences.
+I present our semantic parser that treats these diverse graphbanks in a single compositional framework and sets new state-of-the-art on some of them."
 - 7:
   time: 17:30-
   room: ""
