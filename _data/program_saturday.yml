@@ -24,9 +24,9 @@
 - 4:
   time: 12:00-12:30
   room: "Conference room in C7.4"
-  title: "Talk"
-  speaker: ""
-  text: ""
+  title: "CRC1102 \"Information Density and Linguistic Encoding\""
+  speaker: "Dr. Maria Staudte"
+  text: "Language provides speakers with a multitude of choices regarding how they may encode their messages — from the duration of syllables, to the choice of words, structuring of syntactic elements, and arrangement of sentences in discourse. While variation has traditionally been addressed at each of these levels separately — with each appealing to very different kinds of explanations — the aim of CRC 1102 is to investigate the extent to which the notion of information (Shannon, 1948) can contribute to a unifying model of language use and variation. Here, language use is viewed from the perspective of (bounded) rational communication, in which speakers seek to optimize the encoding of their utterances so as to both (i) successfully convey their intended message, and (ii) optimize the cognitive effort expended by both the speaker and the comprehender."
 - 5:
   time: 12:30-14:00
   room: "TBD"
