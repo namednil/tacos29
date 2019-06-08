@@ -41,10 +41,10 @@
   text: "Ich haben einen Amazon-Alexa-Skill für einen Webshop geschrieben. Von jener Teilmenge meiner Erfahrungen, die anderen bei ihren Projekten helfen könnten, berichte ich. Wir beginnen bei der Korpus-Sammlung und enden beim Interaktionsmodell."
 - 7:
   time: 14:45-15:30
-  room: ""
-  title: "Talk"
-  speaker: ""
-  text: ""
+  room: "Conference room in C7.4"
+  title: "Surfing Through Audio-Semantic Latent Space"
+  speaker: "Maximilian Müller-Eberstein"
+  text: "In this talk, we will explore what happens when autoencoding machine-learning models are trained to translate information across sensory modalities. Based on the ongoing master thesis \"Synesthetic Variational Autoencoders\" which aims to coherently generate music based on visual art, we will attempt to extend the same methodology to a small NLP task in order to hear what sarcastic music sounds like."
 - 8:
   time: 15:30-16:00
   room: ""
