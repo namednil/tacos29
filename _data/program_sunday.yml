@@ -5,18 +5,24 @@
   speaker: ""
   text: ""
 - 2:
-  time: 10:00-10:45
-  room: ""
-  title: "Talk"
-  speaker: ""
-  text: ""
+  time: 10:00-10:25
+  room: "Conference room in C7.4"
+  title: "The NRC emotion/sentiment lexicons and what we can do with them"
+  speaker: "Michael Vrazitulis"
+  text: "During my six-week internship at Acrolinx, I was given the opportunity to scratch the surface of emotion and sentiment analysis tasks. Given one or multiple documents, the goal was to use and meaningfully visualize data from English lexicons which had been annotated with emotion tags and/or sentiment values through crowd-sourcing by the National Research Council Canada. In my brief talk, I will describe the challenges that arose throughout the process and hint to the general discussion of to what extent you can evaluate methods and algorithms of applied tasks in NLP or the broader field of Digital Humanities."
 - 3:
-  time: 10:45-11:30
+  time: 10:25-10:50
   room: ""
   title: "Talk"
   speaker: ""
   text: ""
 - 4:
+  time: 10:50-11:30
+  room: ""
+  title: "Talk"
+  speaker: ""
+  text: ""
+- 5:
   time: 11:30-12:00
   room: "Conference room in C7.4"
   title: "Closing Remarks & Next TaCoS"
