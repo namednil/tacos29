@@ -12,16 +12,16 @@
   text: "During my six-week internship at Acrolinx, I was given the opportunity to scratch the surface of emotion and sentiment analysis tasks. Given one or multiple documents, the goal was to use and meaningfully visualize data from English lexicons which had been annotated with emotion tags and/or sentiment values through crowd-sourcing by the National Research Council Canada. In my brief talk, I will describe the challenges that arose throughout the process and hint to the general discussion of to what extent you can evaluate methods and algorithms of applied tasks in NLP or the broader field of Digital Humanities."
 - 3:
   time: 10:25-11:15
-  room: "Conference room"
+  room: "Conference room in C7.4"
   title: "\"Estonian NER in One Week\" - Machine Learning in Low Resource Settings"
   speaker: "Michael Hedderich"
   text: "Taking into account that over 300 languages have more than one million L1 speakers, even popular languages need to be counted as low-resource for many NLP tasks. Similarly, even in English, the available resources often focus only on specific domains. While unlabeled, raw text is usually available in these scenarios, only few labeled corpora exist to train machine learning algorithms, e.g. to perform named entity recognition. Distant and weak supervision techniques have been proposed to overcome this issue. They allow to automatically annotate raw text using techniques like self-training or external resources. While these approaches can be used to obtain labeled data in a cheap and quick way, the labels often contain errors and training on noisy labels can actually decrease performance. Noise-handling techniques are able to model the noise in the data and actually leverage the additional, cheaply obtained labeled data. In this talk, I'll present different ideas on how to automatically annotate text and explain one of our noise handling techniques with an application in named entity recognition."
 - 4:
-  time: 11:15-11:45
-  room: ""
-  title: "Talk"
-  speaker: ""
-  text: ""
+  time: 11:15-11:35
+  room: "Conference room in C7.4"
+  title: "Fact Checking in Community Forums"
+  speaker: "Dominik Stammbach"
+  text: "We describe our system developed for the Semeval 2019 Task 8 on automated fact checking. We fine-tuned a BERT checkpoint on the qatar living forum dump and used this checkpoint to train a number of models. Our hand-in for subtask A consists of a fine-tuned classifier from this BERT checkpoint. For subtask B, we first have a classifier deciding whether a comment is factual or non-factual. If it is factual, we retrieve intra-forum evidence and using this evidence, have a classifier deciding the comment’s veracity. We trained this classifier on ratings which we crawled from qatarliving.com"
 - 5:
   time: 
   room: "Conference room in C7.4"
