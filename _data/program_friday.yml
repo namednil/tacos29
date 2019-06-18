@@ -17,19 +17,26 @@
   speaker: "Moritz Völkel"
   text: "We present ADVISER - an open source dialog system framework for education and research purposes. This system supports multi-domain task-oriented conversations in two languages. It additionally provides a flexible, modular design in which modules can be arbitrarily combined or exchanged - allowing for easy switching between rules-based and neural network based implementations. Furthermore, ADVISER offers a transparent, user-friendly framework designed for interdisciplinary collaboration: from a flexible back end, allowing easy integration of new features, to an intuitive graphical user interface suitable for non-technical users."
 - 4:
-  time: 15:30-16:00
+  time: 15:30-15:45
   room: ""
   title: "Coffee break"
   speaker: ""
   text: ""
 - 5:
-  time: 16:00-16:45
+  time: 15:45-16:10
   room: "Conference room in C7.4"
-  title: "Talk"
-  speaker: ""
+  title: "Fact Checking in Community Forums"
+  speaker: "Dominik Stammbach"
+  text: "We describe our system developed for the Semeval 2019 Task 8 on automated fact checking. We fine-tuned a BERT checkpoint on the qatar living forum dump and used this checkpoint to train a number of models. Our hand-in for subtask A consists of a fine-tuned classifier from this BERT checkpoint. For subtask B, we first have a classifier deciding whether a comment is factual or non-factual. If it is factual, we retrieve intra-forum evidence and using this evidence, have a classifier deciding the comment’s veracity. We trained this classifier on ratings which we crawled from qatarliving.com"
+
+- 5:
+  time: 16:15-16:30
+  room: "Conference room in C7.4"
+  title: "paragon semvox GmbH"
+  speaker: "Dr. Norbert Pfleger"
   text: ""
 - 6:
-  time: 16:45-17:30
+  time: 16:30-17:15
   room: "Conference room in C7.4"
   title: "Compositional neural semantic graph parsing"
   speaker: "Matthias Lindemann"
@@ -37,7 +44,6 @@
 These semantic graphs exist in many \"flavors\" with differences in what they represent and how they relate to their sentences.
 I present our semantic parser that treats these diverse graphbanks in a single compositional framework and sets new state-of-the-art on some of them."
 - 7:
-  time: 17:30-
   room: ""
   title: "Barbecue"
   speaker: ""
