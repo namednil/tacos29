@@ -12,64 +12,58 @@
 - 2:
   time: 10:00-12:00
   room: "TBD"
-  title: "Tutorials / Hackathon"
-  speaker: ""
-  text: ""
-- 3:
-  time: 10:00-12:00
-  room: "TBD"
   title: "Workshop: Graphemic Standardisation and Human Writing Systems"
   speaker: "Victor Zimmermann"
   text: "One of the oldest human inventions, writing, has been around for a long while. For the longest time the only governing body of what could be written was one's own wrist and writing utensil. Starting with the printing press this changed as people had to agree what would be part of a character set, and what would not be. For computers this task has mostly been taken over by the Unicode standard, just one in a long string of international rulebooks for graphemic standardisation. But what makes a good international standard when it comes to writing systems? Is Unicode the be-all and end-all of what we can expect of alphabets in the digital age or is there still more to come? If we were to create a new standard, could Emojis of all places be the way forward? In this workshop we will dive deep into some very diverse alphabets, explore the cultural and historic significance of the Unicode standard and explore its advantages and shortcomings."
-- 4:
+- 3:
   time: 12:00-12:30
   room: "Conference room in C7.4"
   title: "CRC1102 \"Information Density and Linguistic Encoding\""
   speaker: "Dr. Maria Staudte"
   text: "Language provides speakers with a multitude of choices regarding how they may encode their messages — from the duration of syllables, to the choice of words, structuring of syntactic elements, and arrangement of sentences in discourse. While variation has traditionally been addressed at each of these levels separately — with each appealing to very different kinds of explanations — the aim of CRC 1102 is to investigate the extent to which the notion of information (Shannon, 1948) can contribute to a unifying model of language use and variation. Here, language use is viewed from the perspective of (bounded) rational communication, in which speakers seek to optimize the encoding of their utterances so as to both (i) successfully convey their intended message, and (ii) optimize the cognitive effort expended by both the speaker and the comprehender."
-- 5:
+- 4:
   time: 12:30-14:00
   room: "TBD"
   title: "Lunch"
   speaker: ""
   text: ""
-- 6:
+- 5:
   time: 14:00-14:45
   room: "Conference room in C7.4"
   title: "Alexa, schreiben Sie! - Erfahrungen mit Sprachsteuerung"
   speaker: "Alexander Frey"
   text: "Ich haben einen Amazon-Alexa-Skill für einen Webshop geschrieben. Von jener Teilmenge meiner Erfahrungen, die anderen bei ihren Projekten helfen könnten, berichte ich. Wir beginnen bei der Korpus-Sammlung und enden beim Interaktionsmodell."
-- 7:
+- 6:
   time: 14:45-15:30
   room: "Conference room in C7.4"
   title: "Surfing Through Audio-Semantic Latent Space"
   speaker: "Maximilian Müller-Eberstein"
   text: "In this talk, we will explore what happens when autoencoding machine-learning models are trained to translate information across sensory modalities. Based on the ongoing master thesis \"Synesthetic Variational Autoencoders\" which aims to coherently generate music based on visual art, we will attempt to extend the same methodology to a small NLP task in order to hear what sarcastic music sounds like."
-- 8:
+- 7:
   time: 15:30-16:00
   room: ""
   title: "Coffee break"
   speaker: ""
   text: ""
-- 10:
+- 8:
   time: 16:00-16:45
   room: "Conference room in C7.4"
   title: "Intertextual allusion detection"
   speaker: "Tillmann Dönicke"
   text: "The study of source material is an integral part of literary theory and is concerned with finding the sources of expressions/paragraphs/ideas in a given text. Sometimes the source is obvious, e.g. in the case of citations; however, in many cases the backreferences (allusions) are of indirect nature, which is why researchers still have to carry out this step manually. We will talk about intertextual allusions under an information-theoretical aspect and discuss computational approaches for allusion detection."
-- 11:
+- 9:
   time: 16:45-17:10
   room: "Conference room in C7.4"
   title: "How can readability indices be used for plagiarism analysis?"
   speaker: "Maja Toebs"
   text: "The demand for effective plagiarism analysis has increased significantly in recent years. Applications of plagiarism analysis include forensics, education, journalism and many other fields. The state-of-the-art approach to plagiarism analysis is intrinsic, meaning that style changes within a document are detected with an automatic stylometric analysis. Readability is a measure of authorial style that can be calculated easily and used to identify plagiarised passages. In this presentation, a simple and widely used formula for readability, the so-called Gunning Fog Index, is analysed regarding its robustness. For well-functioning intrinsic plagiarism analysis, the used measures need to be very stable. Also, they should be insensitive to the type, topic and length of a document. However, tests have shown that the Gunning Fog values tend to vary quite much within one document. Thus, I tried several approaches to stabilise these values. The results of my analysis are presented in this thesis and it is discussed how such readability measures can be used for plagiarism analysis."
-- 12:
+- 10:
   time: 17:10-17:35
   room: "Conference room in C7.4"
   title: "Relation Prediction with BERT"
   speaker: "Jannis Rautenstrauch"
   text: "On social media platforms like Twitter, millions of users discuss hundreds of topics every day. If it is possible to automatically predict the relations between those posts, a lot can be learned about public opinions and the dynamics of discussion. This work is an analysis of whether pre-trained language models such as Google’s BERT which achieve state-of-the-art results in many NLP tasks can be used for the task of relation prediction in argument mining. The task is very challenging due to the small size of existing datasets for training and the fact that it involves high-level knowledge representation and reasoning issues. First results show that BERT outperforms currently used manual feature engineering solutions."
-- 13:
+- 11:
   time: 
   room: ""
   title: "Guided tour through the city & dinner"
