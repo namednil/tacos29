@@ -64,8 +64,14 @@
   speaker: "Jannis Rautenstrauch"
   text: "On social media platforms like Twitter, millions of users discuss hundreds of topics every day. If it is possible to automatically predict the relations between those posts, a lot can be learned about public opinions and the dynamics of discussion. This work is an analysis of whether pre-trained language models such as Google’s BERT which achieve state-of-the-art results in many NLP tasks can be used for the task of relation prediction in argument mining. The task is very challenging due to the small size of existing datasets for training and the fact that it involves high-level knowledge representation and reasoning issues. First results show that BERT outperforms currently used manual feature engineering solutions."
 - 11:
-  time: 
+  time: 18:30-19:30
   room: ""
   title: "Guided tour through the city & dinner"
+  speaker: ""
+  text: ""
+- 12:
+  time: "19:30"
+  room: ""
+  title: "<a target=_blank href=\"https://www.google.de/maps/place/Ristorante+Pizzeria+Al+Bacio/@49.2373191,6.9962118,17z/data=!3m1!4b1!4m5!3m4!1s0x4795b6a7cf382d93:0x60cb2e9bf3c0308!8m2!3d49.2373156!4d6.9984005\">Dinner</a>"
   speaker: ""
   text: ""
