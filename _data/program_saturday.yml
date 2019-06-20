@@ -11,7 +11,7 @@
 </ul>"
 - 2:
   time: 10:00-12:00
-  room: "TBD"
+  room: "-1.05 in C7.2"
   title: "Workshop: Graphemic Standardisation and Human Writing Systems"
   speaker: "Victor Zimmermann"
   text: "One of the oldest human inventions, writing, has been around for a long while. For the longest time the only governing body of what could be written was one's own wrist and writing utensil. Starting with the printing press this changed as people had to agree what would be part of a character set, and what would not be. For computers this task has mostly been taken over by the Unicode standard, just one in a long string of international rulebooks for graphemic standardisation. But what makes a good international standard when it comes to writing systems? Is Unicode the be-all and end-all of what we can expect of alphabets in the digital age or is there still more to come? If we were to create a new standard, could Emojis of all places be the way forward? In this workshop we will dive deep into some very diverse alphabets, explore the cultural and historic significance of the Unicode standard and explore its advantages and shortcomings."
@@ -23,7 +23,7 @@
   text: "Language provides speakers with a multitude of choices regarding how they may encode their messages — from the duration of syllables, to the choice of words, structuring of syntactic elements, and arrangement of sentences in discourse. While variation has traditionally been addressed at each of these levels separately — with each appealing to very different kinds of explanations — the aim of CRC 1102 is to investigate the extent to which the notion of information (Shannon, 1948) can contribute to a unifying model of language use and variation. Here, language use is viewed from the perspective of (bounded) rational communication, in which speakers seek to optimize the encoding of their utterances so as to both (i) successfully convey their intended message, and (ii) optimize the cognitive effort expended by both the speaker and the comprehender."
 - 4:
   time: 12:30-14:00
-  room: "TBD"
+  room: ""
   title: "Lunch"
   speaker: ""
   text: ""
