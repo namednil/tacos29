@@ -1,8 +1,10 @@
 # TaCoS 29 webpage
 
-This is the webpage of TaCoS 29. In order to get working forms, we used the following [little flask project](https://github.com/namednil/flask_tacos) as backend that runs on the server.
+This is the webpage of TaCoS 29. It is based on the website of the [travis foundation](https://foundation.travis-ci.org/).
 
-We used an mybb forum to help people find a couch during their stay.
+In order to get working forms, we used the following [little flask project](https://github.com/namednil/flask_tacos) as backend that runs on the server.
+
+We used an mybb forum to help people find a couch during their stay. The forum is populated with users by a little script that extracts user names from the database and inserts them into the mybb database.
 
 ## Edit things
 
