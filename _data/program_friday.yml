@@ -38,7 +38,7 @@
 - 6:
   time: 16:30-17:15
   room: "Conference room in C7.4"
-  title: "Compositional neural semantic graph parsing"
+  title: "<a href=/slides/presentation_ML.pdf>Compositional neural semantic graph parsing</a>"
   speaker: "Matthias Lindemann"
   text: "With the availability of semantic graphbanks, there has been a growing interest in parsing sentences into graphs that represent sentence-level meaning (e.g. Abstract Meaning Representation).
 These semantic graphs exist in many \"flavors\" with differences in what they represent and how they relate to their sentences.
